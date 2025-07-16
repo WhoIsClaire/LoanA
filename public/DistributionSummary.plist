@@ -362,7 +362,7 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>PZ8W663LPU.com.loan.test7.m00001</string>
+				<string>PZ8W663LPU.com.loan.test7.m00002</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>PZ8W663LPU</string>
 				<key>get-task-allow</key>
@@ -373,11 +373,11 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>056f94e6-3429-497a-8d00-edf5d8d4be65</string>
+				<string>5c537348-590d-4343-8fe4-34a709090094</string>
 				<key>dateExpires</key>
 				<string>2026/7/11</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.loan.test7.m00001</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.loan.test7.m00002</string>
 			</dict>
 			<key>team</key>
 			<dict>
